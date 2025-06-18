@@ -51,7 +51,7 @@
 
 <p align="left">
 📫 Email: <a href="mailto:sreeja.madala555@gmail.com">sreeja.madala555@gmail.com</a><br>
-🔗 LinkedIn: <a href="https://www.linkedin.com/in/sreeja-madala">linkedin.com/in/sreeja-madala</a><br>
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/sreejamadala/">linkedin.com/in/sreeja-madala</a><br>
 🚀 Projects Hosted on Vercel:  
 <ul>
   <li><a href="internship-landing-assignment-1vsg-5q1fv7sb9.vercel.app" target="_blank">Project 1</a></li>
