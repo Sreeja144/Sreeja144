@@ -54,7 +54,7 @@
 🔗 LinkedIn: <a href="https://www.linkedin.com/in/sreejamadala/">linkedin.com/in/sreeja-madala</a><br>
 🚀 Projects Hosted on Vercel:  
 <ul>
-  <li><a href="internship-landing-assignment-1vsg-5q1fv7sb9.vercel.app" target="_blank">Project 1</a></li>
+  <li><a href="https://internship-landing-assignment-1vsg-f4425fecy.vercel.app/" target="_blank">Project 1</a></li>
   <li><a href="ec-plex-exchnage-4devseany-sreeja-madalas-projects.vercel.app" target="_blank">Project 2</a></li>
   <!-- Add more if needed -->
 </ul>
