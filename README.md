@@ -55,7 +55,7 @@
 🚀 Projects Hosted on Vercel:  
 <ul>
   <li><a href="https://internship-landing-assignment-1vsg-f4425fecy.vercel.app/" target="_blank">Project 1</a></li>
-  <li><a href="ec-plex-exchnage-4devseany-sreeja-madalas-projects.vercel.app" target="_blank">Project 2</a></li>
+  <li><a href="https://ec-plex-exchnage.vercel.app/" target="_blank">Project 2</a></li>
   <!-- Add more if needed -->
 </ul>
 </p>
